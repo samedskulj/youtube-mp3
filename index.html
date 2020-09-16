@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <script src="app.js" defer></script>
+    <title>YouTube MP3 Converter</title>
+</head>
+<body>
+    
+        <div class="ytmp3"> 
+            <div class="slikeNaslov">
+                <img id = "prvaSlika" src="slike/remove_circle_24px_outlined.svg" alt="">
+                <h3>YouTube Converter</h2>
+                <img id = "drugaSlika" src="slike/play_circle_filled_24px_outlined.svg" alt="">
+                </div>
+            
+                <div class="container">
+                    <form method="POST">
+
+                        <h3><a href="https://help.tcgplayer.com/hc/en-us/articles/115008106868-Finding-Your-YouTube-Video-ID" target="_blank" class="effect-underline" src = "">Ako ne znate šta je VIDEO ID, pogledajte ovaj link!</a></h3>
+
+                        <label for="fname">Unesite ID pjesme sa YouTube-a:</label><br>
+                        <input type="text" id="fname" name="url" value="" size = "70"><br>
+                        
+                    </form>
+                    <div class="pozivanjeLinkova">
+                        <button id="dugme">Preuzmite!!</button>
+                        <iframe id = "link" src="" frameborder="0"></iframe>
+                    </div>
+                    
+                </div>
+                
+        </div>
+        
+</body>
+</html>
+
