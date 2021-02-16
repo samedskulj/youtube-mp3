@@ -6,5 +6,5 @@ A small but still compatible YouTube MP3 converter which uses Video ID from a yo
 [PREVIEW](https://samedskulj.github.io/YoutubeMP3-converter/)
 
 # Future changes
-- More compatible UI design
+- More compatible UI design - FINISHED
 - Changing to React.js framework
