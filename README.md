@@ -17,3 +17,10 @@ A small but still compatible YouTube MP3 converter which uses Video ID from a yo
 
 The API used in this app is not very compatible for users beacuse it has AD-s
 
+# FAQ
+
+* Will it be changed to Python?
+Probably will not.
+
+* Why does this simple web app have so many ADs?
+Beacuse the that is being used in this app is free and it has a lots of ADs
