@@ -8,3 +8,7 @@ A small but still compatible YouTube MP3 converter which uses Video ID from a yo
 # Future changes
 - More compatible UI design - FINISHED
 - Changing to React.js framework
+
+# Update v1.1
+* Added new UI Design
+* Added Material UI
