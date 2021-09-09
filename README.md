@@ -12,3 +12,8 @@ A small but still compatible YouTube MP3 converter which uses Video ID from a yo
 # Update v1.1
 * Added new UI Design
 * Added Material UI
+
+# API Conversation
+
+The API used in this app is not very compatible for users beacuse it has AD-s
+
