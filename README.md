@@ -24,3 +24,7 @@ Probably will not.
 
 * Why does this simple web app have so many ADs?
 Beacuse the that is being used in this app is free and it has a lots of ADs
+
+# Deployment 
+
+This site is deployed using GitHub Pages
